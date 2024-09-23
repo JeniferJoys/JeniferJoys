@@ -1,4 +1,6 @@
-- 👋 Hi there! I’m JeniferJoys, a creative enthusiast on a journey to craft innovative projects for my portfolio.
+# Hi, I'm Jenifer Joys👋
+
+- 💡 A creative enthusiast on a journey to craft innovative projects for my portfolio.
 
 - 🌟 Currently diving into the world of SQL, Power BI, R, and Tableau—exploring data like never before!
 
